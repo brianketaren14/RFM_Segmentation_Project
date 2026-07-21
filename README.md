@@ -12,8 +12,7 @@ The dataset contains sales transaction records for a London-based online retaile
 A visual report is available to summarize the analysis and key findings.
 
 - Dashboard link: https://datastudio.google.com/reporting/bd5637de-5531-4362-b77c-93a9bdb17a3c
-<img width="1910" height="1316" alt="image" src="https://github.com/user-attachments/assets/dae44cab-287e-4611-ba7c-57a99ae85c78" />
-
+<img width="1849" height="921" alt="image" src="https://github.com/user-attachments/assets/c42b3389-bfd6-43cd-a5b3-c068f8e4d8dc" />
 
 ## Key Features
 - `InvoiceNo`: transaction identifier; invoice numbers beginning with `C` indicate cancellations.
