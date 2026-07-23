@@ -33,15 +33,13 @@ The notebook performs the following steps:
    - Recency: days since last purchase.
    - Frequency: number of transactions per customer.
    - Monetary: total spending per customer.
-6. Applying clustering and unsupervised learning to identify customer segments.
-7. Exploring sales trends, product popularity, and customer revenue contribution.
+6. Exploring sales trends, product popularity, and customer revenue contribution.
 
 ## Objective
-- Discover customer segments using RFM and clustering.
+- Discover customer segments using RFM.
 - Analyze sales trends over time.
 - Understand product purchase patterns.
 - Evaluate customer contributions to revenue.
-- Provide strategic business recommendations based on cluster behavior.
 - Demonstrate a supervised classification approach for predicting cancelled orders.
 
 ## Notes
