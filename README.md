@@ -1,7 +1,6 @@
-# RFM Unsupervised Learning Project
-
+# RFM Segmentation \
 ## Project Overview
-This project analyzes a UK-based online retail dataset using RFM (Recency, Frequency, Monetary) analysis and unsupervised learning techniques. The goal is to segment customers based on purchasing behavior, identify patterns in the sales data, and provide business recommendations.
+This project analyzes a UK-based online retail dataset using RFM (Recency, Frequency, Monetary) analysis. The goal is to segment customers based on purchasing behavior, identify patterns in the sales data, and provide business recommendations.
 
 ## Dataset
 The dataset contains sales transaction records for a London-based online retailer from 2007 to 2008. The store sells gifts and homeware products to individual customers and small businesses worldwide.
