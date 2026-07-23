@@ -1,4 +1,4 @@
-# RFM Segmentation \
+# RFM Segmentation 
 ## Project Overview
 This project analyzes a UK-based online retail dataset using RFM (Recency, Frequency, Monetary) analysis. The goal is to segment customers based on purchasing behavior, identify patterns in the sales data, and provide business recommendations.
 
